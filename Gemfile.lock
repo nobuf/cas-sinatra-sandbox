@@ -25,7 +25,7 @@ GEM
     omniauth-twitcasting (0.0.3)
       omniauth (~> 1.9)
       omniauth-oauth2 (~> 1.6)
-    rack (2.0.7)
+    rack (2.0.8)
     rack-protection (2.0.5)
       rack
     sinatra (2.0.5)
